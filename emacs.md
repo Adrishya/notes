@@ -51,7 +51,7 @@ Note that window in Emacs is the physical area of the screen in which a buffer i
 ## Emacs Org Mode Table Commands
 
 | Shortcut  | Description                                         |
-|-----------+-----------------------------------------------------|
+|-----------|-----------------------------------------------------|
 | C-c ?     | Find reference of particular field                  |
 | C-u C-c * | Recalculate all forumlas inside current spreadsheet |
 | C-c {     | Turn on the formula debugger                        |
@@ -61,7 +61,7 @@ Note that window in Emacs is the physical area of the screen in which a buffer i
 
 ## List Of Org Mode Table Formula Functions
 | Name             | Function                     |
-|------------------+------------------------------|
+|------------------|------------------------------|
 | vmean            | Find mean of range of values |
 | vsum             | Find sum of values           |
 | substring        |                              |
