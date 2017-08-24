@@ -10,25 +10,25 @@
 * You can append a number (seperated by space) before most of the commands.
 
 # Basic Shortcuts
-| Shortcut | Explanation                                    |
-|----------|------------------------------------------------|
-| c        | Command mode - this is the mode vim open with  |
-| i        | Insert mode - enter this mode to edit the file |
-| u        | Undo                                           |
-| Ctrl+r   | Redo                                           |
-| /        |                                                |
-| gg       | Goto top most point in file                    |
-| Shift    |                                                |
-| $        | End of line                                    |
-| End      | Endi of line                                   |
-| Home     | Start of line                                  |
-| 0        | Start of line                                  |
-| ^        | Start of first word in line                    |
-| b        | Move from one word to another backwards        |
-| w        | Move from one word to another forwards         |
-| x        | Delete                                         |
-| dd       | Delete current line                            |
-| .        | Execute previous command                       |
+| Shortcut | Explanation                                                   |
+|----------|---------------------------------------------------------------|
+| c        | Command mode - this is the mode vim open with                 |
+| i        | Insert mode - enter this mode to edit the file                |
+| u        | Undo                                                          |
+| Ctrl+r   | Redo                                                          |
+| /        | Start search mode - enter text - press `n` to find next match |
+| gg       | Goto top most point in file                                   |
+| G        | Goto bottommost line in file                                  |
+| $        | End of line                                                   |
+| End      | Endi of line                                                  |
+| Home     | Start of line                                                 |
+| 0        | Start of line                                                 |
+| ^        | Start of first word in line                                   |
+| b        | Move from one word to another backwards                       |
+| w        | Move from one word to another forwards                        |
+| x        | Delete                                                        |
+| dd       | Delete current line                                           |
+| .        | Execute previous command                                      |
 
 
 # Window shortcuts
